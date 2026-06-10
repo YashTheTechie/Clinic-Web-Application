@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: #333333;
+  background-color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+:root {
+  --primary: #1a6b4a;
+  --primary-light: #e8f5ef;
+  --accent: #f4a535;
+  --text-dark: #1a1a1a;
+  --text-gray: #666666;
+  --text-light: #999999;
+  --border: #e5e5e5;
+  --white: #ffffff;
+  --bg-light: #f9fafb;
+}
